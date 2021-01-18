@@ -9,3 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2021-01-17
 ### Added
 - New files added, being file01, file02, and file03 with unique content in each.
+
+## [2.0.0] - 2021-01-17
+### Added
+- New files added, being file04, file05, file06.
+- Updated file03.
